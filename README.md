@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**arturfber/arturfber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, there! 👋🏼
 
-Here are some ideas to get you started:
+My name is **Artur** and i am a **front-end** web developer with **UI/UX** design skills.
+I live in Minas Gerais, **Brazil** and currently work with prototyping, creating and maintaining news portals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Focus 💡
+
+Beside with front-end development i'm exploring and trying to master the **JavaScript** language for later learn some frameworks like React.js, Node.js or Angular
+
+## Skills 📚
+
+- **HTML5** 
+- **CSS3** 
+- **JavaScript**
+- **JSON**
+- **MySQL**
+- **UI/UX**
+- **Responsive Design**
+
+## Frameworks ⏰
+
+- **Bootstrap** 
+- **Owl Carousel** 
+- **Jquery**
+
+## Where to find me
+[![Badge](https://img.shields.io/badge/-LinkedIn-%230173B1?style=for-the-badge&labelColor=230F97D2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-bernardes-42132a1a4/)](https://www.linkedin.com/in/artur-bernardes-42132a1a4/) [![Badge](https://img.shields.io/badge/-Gmail-%23BB001B?style=for-the-badge&labelColor=23BB001B&logo=gmail&logoColor=white&link=mailto:artur.fb.95@gmail.com)](mailto:artur.fb.95@gmail.com)
+
+Personal blog comming soon...
