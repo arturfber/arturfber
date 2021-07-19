@@ -24,7 +24,7 @@ Beside with front-end development i'm exploring and trying to master the **JavaS
 - **Owl Carousel** 
 - **Jquery**
 
-## Where to find me
+## Where to find me 📌
 [![Badge](https://img.shields.io/badge/-LinkedIn-%230173B1?style=for-the-badge&labelColor=230F97D2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-bernardes-42132a1a4/)](https://www.linkedin.com/in/artur-bernardes-42132a1a4/) [![Badge](https://img.shields.io/badge/-Gmail-%23BB001B?style=for-the-badge&labelColor=23BB001B&logo=gmail&logoColor=white&link=mailto:artur.fb.95@gmail.com)](mailto:artur.fb.95@gmail.com)
 
 Personal blog comming soon...
