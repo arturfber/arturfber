@@ -1,5 +1,8 @@
 # Hello, there! 👋🏼
 
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
+
+
 My name is **Artur** and i am a **front-end** web developer with **UI/UX** design skills.
 I live in Minas Gerais, **Brazil** and currently work with prototyping, creating and maintaining news portals.
 
