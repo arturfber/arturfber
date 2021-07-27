@@ -17,13 +17,13 @@ Beside with front-end development i'm exploring and trying to master the **JavaS
 
 
 
-## Tools
+## Tools 🛠️
 
 
 | <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="70px" height="70px"> | <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/vscode.svg" width="70px"> | <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/git.svg" width="100px">|<img src="https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png" width="70x">
 |:-:|:-:|:-:|:-:|
 
-## Skills
+## Skills 💬
 
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Responsive_Web_Design_Logo.svg/1200px-Responsive_Web_Design_Logo.svg.png" width="100px"> | <img src="https://nextgenerationtechnologies.in/uploads/page/33/thumb_750X750_ui_ux_design_logo.png" width="130px"> | 
