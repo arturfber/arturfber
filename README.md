@@ -10,7 +10,7 @@ Beside with front-end development i'm exploring and trying to master the **JavaS
 ## Languages & Frameworks 📚
 | <img src="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667"> | <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="70"> | <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" width="70px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100px"> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="70px">
 |:-:|:-:|:-:|:-:|:-:|
-<img src="https://owlcarousel2.github.io/OwlCarousel2/assets/img/owl-logo.png" width="70px">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" width="70px">| <img src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/jQuery-logo.png" width="70px"> |<img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="70px"> |  Comming soon...
+<img src="https://owlcarousel2.github.io/OwlCarousel2/assets/img/owl-logo.png" height="70px">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" width="70px">| <img src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/jQuery-logo.png" width="70px"> |<img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="70px"> |  Comming soon...
 
 
 ## Tools 🛠️
