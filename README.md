@@ -1,4 +1,5 @@
 
+
 # Hello, there! 👋🏼
 My name is **Artur** and i am a **front-end** web developer with **UI/UX** design skills.
 I live in Minas Gerais, **Brazil** and currently work with prototyping, creating and maintaining news portals.
@@ -11,6 +12,9 @@ Beside with front-end development i'm exploring and trying to master the **JavaS
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70px"> | <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="70"> | <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" width="70px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100px"> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="70px">
 |:-:|:-:|:-:|:-:|:-:|
 <img src="https://owlcarousel2.github.io/OwlCarousel2/assets/img/owl-logo.png" height="70px">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" width="70px">| <img src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/jQuery-logo.png" width="70px"> |<img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="70px"> |  Comming soon...
+
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturfber&layout=compact)](https://github.com/arturfber)
 
 
 ## Tools 🛠️
