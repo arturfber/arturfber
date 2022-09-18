@@ -1,7 +1,7 @@
 
 
 # Hello, there! 👋🏼
-My name is **Artur** and i am a **front-end** web developer with **UI/UX** design skills.
+My name is **Artur** and i am a **fullstack** web developer with **UI/UX** design skills.
 I live in Minas Gerais, **Brazil** and currently work with prototyping, creating and maintaining news portals.
 
 ## Main Focus 💡
