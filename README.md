@@ -1,32 +1,91 @@
+<!-- PROFILE HEADER -->
+<h1 align="center">✨ Artur Bernardes</h1>
+<h3 align="center">Mid-Level Fullstack Developer | Clean Code • Modern Stacks • Global Collaboration</h3>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/66834866?v=4" width="140" style="border-radius:50%" />
+</p>
 
-# Hello, there! 👋🏼
-My name is **Artur** and i am a **fullstack** web developer with **UI/UX** design skills.
-I live in Minas Gerais, **Brazil** and currently work with prototyping, creating and maintaining news portals.
+<p align="center">
+  <b>Creating exceptional digital experiences with precision, elegance and purposeful engineering.</b><br/>
+  Working globally — currently based in Ireland — building resilient back-ends, polished front-ends and scalable architectures.
+</p>
 
-## Main Focus 💡
-Beside with front-end development i'm exploring and trying to master the **JavaScript** language for later learn some frameworks like React.js, Node.js or Angular
+---
 
+## 🚀 About Me
 
-## Languages & Frameworks 📚
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70px"> | <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="70"> | <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" width="70px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100px"> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="70px">
-|:-:|:-:|:-:|:-:|:-:|
-<img src="https://owlcarousel2.github.io/OwlCarousel2/assets/img/owl-logo.png" height="70px">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" width="70px">| <img src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/jQuery-logo.png" width="70px"> |<img src="https://byteslivres.com.br/blog/wp-content/uploads/2018/01/MySQL-Logo.png" width="70px"> |  Comming soon...
+Passionate about crafting digital products that feel effortless on the surface and robust underneath.  
+I value well-structured architecture, maintainable code and thoughtful UI/UX.
 
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturfber&layout=compact)](https://github.com/arturfber)
+I’ve worked supporting mission-critical systems, optimizing legacy infrastructures and delivering modern solutions in:
 
+- 🌍 Public sector platforms  
+- 🏥 Healthcare/medical systems  
+- 📱 Mobile & API ecosystems  
+- 🧠 Enterprise-grade dashboards & automations  
 
-## Tools 🛠️
-| <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="70px" height="70px"> | <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/vscode.svg" width="70px"> | <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/git.svg" width="100px">|<img src="https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png" width="70x">
-|:-:|:-:|:-:|:-:|
+---
 
+## 💼 Experience Highlights
 
-## Skills 💬
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Responsive_Web_Design_Logo.svg/1200px-Responsive_Web_Design_Logo.svg.png" width="100px"> | <img src="https://nextgenerationtechnologies.in/uploads/page/33/thumb_750X750_ui_ux_design_logo.png" width="130px"> | 
-|:-:|:-:|
+- **IT Development & Support Supervisor** — Regional Council of Dentistry of Minas Gerais  
+- **IT Advisory & System Modernization** — RCDMG  
+- **Fullstack Developer** — Jhusys Corporate Solutions  
+- **Front-end Developer** — Freelancer  
+- **Development Internship** — RCDMG  
 
-## Where to find me 📌
-[![Badge](https://img.shields.io/badge/-LinkedIn-%230173B1?style=for-the-badge&labelColor=230F97D2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-bernardes-42132a1a4/)](https://www.linkedin.com/in/artur-bernardes-42132a1a4/) [![Badge](https://img.shields.io/badge/-Gmail-%23BB001B?style=for-the-badge&labelColor=23BB001B&logo=gmail&logoColor=white&link=mailto:artur.fb.95@gmail.com)](mailto:artur.fb.95@gmail.com)
+Building APIs in Laravel, creating product dashboards, enhancing legacy platforms, and supporting digital transformation efforts.
 
-Personal blog comming soon...
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:** PHP, JavaScript, HTML, CSS  
+**Frameworks:** Laravel, Svelte  
+**Databases:** MySQL, MariaDB, PostgreSQL  
+**Cloud & Infra:** Linux, Nginx, Apache, CI/CD  
+**Tools:** Git, Docker, Postman, Composer, npm, Yarn  
+**Other:** WordPress, API architecture, Clean Code  
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **CROMG – Institutional System** | Large-scale platform powering dentistry council operations. | WordPress, MySQL, jQuery |
+| **Meu CROMG – Mobile App API** | Backend API built for the mobile app of the dentistry council. | Laravel, REST API |
+| **WordPress Modernization System** | Theme & plugin improvements with optimized performance and custom development. | WP, PHP |
+| **CROMG WordPress Classifieds System** | Custom-built classifieds system over WordPress platform | WP, PHP |
+
+---
+
+## 🌎 Global Work Experience
+
+Operating across time zones.  
+Collaboration with teams in **Brazil** and **Ireland**.
+
+---
+
+## ✨ What Drives Me
+
+- Elegant solutions  
+- Thoughtful architecture  
+- Maintainability and long-term value  
+- Systemic thinking  
+- Delivering beyond expectations  
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://arturbernardes.com">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/artur-bernardes">💼 LinkedIn</a> •
+  <a href="mailto:arturbernardes.com@gmail.com">✉️ Email</a>
+</p>
+
+---
+
+<p align="center"><i>“Precision in code. Elegance in experience. Purpose in everything.”</i></p>
