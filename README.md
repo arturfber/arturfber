@@ -2,9 +2,8 @@
 <h1 align="center">✨ Artur Bernardes</h1>
 <h3 align="center">Mid-Level Fullstack Developer | Clean Code • Modern Stacks • Global Collaboration</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/66834866?v=4" width="140" style="border-radius:50%" />
-</p>
+<br>
+
 
 <p align="center">
   <b>Creating exceptional digital experiences with precision, elegance and purposeful engineering.</b><br/>
