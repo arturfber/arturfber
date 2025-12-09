@@ -15,26 +15,14 @@
 ## 🚀 About Me
 
 Passionate about crafting digital products that feel effortless on the surface and robust underneath.  
-I value well-structured architecture, maintainable code and thoughtful UI/UX.
+I value well-structured architecture, maintainable code and thoughtful UI/UX. I'm also passionate about AI and how it can be used to improve the lives of people (and developers!).
 
 I’ve worked supporting mission-critical systems, optimizing legacy infrastructures and delivering modern solutions in:
 
 - 🌍 Public sector platforms  
-- 🏥 Healthcare/medical systems  
+- 🛒 E-commerce platforms  
 - 📱 Mobile & API ecosystems  
-- 🧠 Enterprise-grade dashboards & automations  
-
----
-
-## 💼 Experience Highlights
-
-- **IT Development & Support Supervisor** — Regional Council of Dentistry of Minas Gerais  
-- **IT Advisory & System Modernization** — RCDMG  
-- **Fullstack Developer** — Jhusys Corporate Solutions  
-- **Front-end Developer** — Freelancer  
-- **Development Internship** — RCDMG  
-
-Building APIs in Laravel, creating product dashboards, enhancing legacy platforms, and supporting digital transformation efforts.
+- 🤖 AI-powered systems
 
 ---
 
@@ -45,7 +33,8 @@ Building APIs in Laravel, creating product dashboards, enhancing legacy platform
 **Databases:** MySQL, MariaDB, PostgreSQL  
 **Cloud & Infra:** Linux, Nginx, Apache, CI/CD  
 **Tools:** Git, Docker, Postman, Composer, npm, Yarn  
-**Other:** WordPress, API architecture, Clean Code  
+**Other:** WordPress, API architecture, Clean Code, AI  
+**AI:** Lovable AI, Cursor, Claude, OpenAI, Gemini, Grok
 
 ---
 
@@ -57,6 +46,7 @@ Building APIs in Laravel, creating product dashboards, enhancing legacy platform
 | **Meu CROMG – Mobile App API** | Backend API built for the mobile app of the dentistry council. | Laravel, REST API |
 | **WordPress Modernization System** | Theme & plugin improvements with optimized performance and custom development. | WP, PHP |
 | **CROMG WordPress Classifieds System** | Custom-built classifieds system over WordPress platform | WP, PHP |
+| **Hondas90 – AI-powered automotive community** | AI-powered automotive community information hub | NextJS, AI |
 
 ---
 
@@ -69,11 +59,11 @@ Collaboration with teams in **Brazil** and **Ireland**.
 
 ## ✨ What Drives Me
 
-- Elegant solutions  
-- Thoughtful architecture  
-- Maintainability and long-term value  
-- Systemic thinking  
-- Delivering beyond expectations  
+- Elegant solutions
+- Thoughtful architecture
+- Maintainability and long-term value
+- Systemic thinking
+- Delivering beyond expectations
 
 ---
 
